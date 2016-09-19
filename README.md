@@ -46,3 +46,10 @@ https://codility.com/demo/results/training2V2YV4-F45/
 
 GenomicRangeQuery Submitted in: Python  
 https://codility.com/demo/results/training9WKCPN-8HR/
+
+
+
+##Lesson 9 Maximum slice problem
+MaxProfit Submitted in: Python  
+https://codility.com/demo/results/training9VP4CW-EB8/
+
