@@ -47,6 +47,9 @@ https://codility.com/demo/results/training2V2YV4-F45/
 GenomicRangeQuery Submitted in: Python  
 https://codility.com/demo/results/training9WKCPN-8HR/
 
+MinAvgTwoSlice Submitted in: Python  
+https://codility.com/demo/results/trainingSJERUH-QBF/
+
 
 
 ##Lesson 9 Maximum slice problem
