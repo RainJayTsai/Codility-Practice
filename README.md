@@ -51,8 +51,32 @@ MinAvgTwoSlice Submitted in: Python
 https://codility.com/demo/results/trainingSJERUH-QBF/
 
 
+## Lesson 6 Lesson 6Sorting  
+Distinct Submitted in: Python  
+https://codility.com/demo/results/training2FU863-VH6/
 
-##Lesson 9 Maximum slice problem
+Triangle Submitted in: Python  
+https://codility.com/demo/results/trainingWHW66K-N93/
+
+MaxProductOfThree Submitted in: Python  
+https://codility.com/demo/results/trainingWTFP7X-9ED/
+
+
+# Lession 7 Stacks and Queues
+Nesting Submitted in: Python  
+https://codility.com/demo/results/training76VW3J-QXH/
+
+Brackets Submitted in: Python  
+https://codility.com/demo/results/training3C39K8-XMY/
+
+Fish Submitted in: Python  
+https://codility.com/demo/results/trainingNNWGAW-A3M/
+
+
+
+
+
+## Lesson 9 Maximum slice problem
 MaxProfit Submitted in: Python  
 https://codility.com/demo/results/training9VP4CW-EB8/
 
